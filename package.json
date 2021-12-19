@@ -1,5 +1,5 @@
 {
-  "name": "pc-sch-yes",
+  "name": "pc-sch",
   "version": "1.0.0",
   "description": "",
   "main": "pc.js",
@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "shark",
   "license": "ISC"
 }
